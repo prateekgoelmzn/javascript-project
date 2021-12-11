@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>JS Script is working fine</h1>';
